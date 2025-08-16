@@ -1,7 +1,7 @@
 # Cloud Service Alternatives Report  
 **Course:** CST8919 – DevOps Security and Compliance  
 **Assignment:** 2 – Cloud Service Alternatives Report  
-**Due Date:** August 15, 2025  
+**Due Date:** 15th August, 2025
 **Author:** Vaibhav Mishra (041165850) 
 
 ---
