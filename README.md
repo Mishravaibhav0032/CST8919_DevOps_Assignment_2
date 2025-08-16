@@ -213,3 +213,8 @@ Azure’s multicloud coverage fits advanced compliance needs.
 
 **Narrative Analysis:**
 Sentinel fits course log analysis needs; AWS and GCP offer alternatives suited for data aggregation and AI-enhanced detection.
+
+## References
+- Microsoft Azure Documentation  - https://learn.microsoft.com/en-us/azure/?product=popular  
+- AWS Documentation   
+- Google Cloud Documentation  
